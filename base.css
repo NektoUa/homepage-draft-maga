@@ -92,6 +92,7 @@
   p:last-child {
     margin-bottom: 0;
   }
+
   strong {
     font-weight: 600;
   }
@@ -517,7 +518,7 @@
     position: relative;
     display: block;
     flex: 1 0 auto;
-    max-width: 15rem;
+    max-width: 17rem;
     width: 100%;
     border-radius: 100px;
   }
@@ -897,6 +898,11 @@
   }
   #resume .dots .dot:not(:last-child) {
     margin-right: 0.2142857em;
+  }
+  .p-intro {
+    text-align: justify;
+    font-size: 120%;
+    line-height: 1.7;
   }
   
   /* Dialog */
