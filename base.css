@@ -31,7 +31,7 @@
   h4,
   h5 {
     line-height: 1.28571429em;
-    margin: 0 0 1rem 0;
+    margin: 1rem 0 0.5rem 0;
     font-weight: bold;
     padding: 0;
   }
@@ -539,6 +539,7 @@
   .language {
     font-weight: 600;
     white-space: nowrap;
+    margin-bottom: 10px;
   }
   
   /* Labels */
